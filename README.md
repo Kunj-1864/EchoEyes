@@ -1,8 +1,3 @@
-Got it ✅ — here’s a polished and professional **`README.md`** for your **EchoEyes** project, ready to upload to GitHub.
-It’s designed to look great on your repo page and includes all standard open-source documentation sections.
-
----
-
 ```markdown
 # 👁️ EchoEyes
 
